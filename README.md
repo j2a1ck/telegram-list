@@ -22,7 +22,7 @@ List of Telegram channel
 
 
 # book
-[@avayebuf](https://avayebuf)
+[@avayebuf](https://tme/avayebuf)
 
 
 
