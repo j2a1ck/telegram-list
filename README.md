@@ -14,7 +14,15 @@ List of Telegram channel
 
 [@animelist_ir](https://t.me/animelist_ir) for anime fan   
 [@kingmovienit](https://t.me/kingmovienit)  
-[@cnamafarsi](https://t.me/cnamafarsi) for iranian
+[@cnamafarsi](https://t.me/cnamafarsi) for iranian  
+[@tvroozcom](https://t.me/tvroozcom)  
+[@filmseven](https://t.me/filmseven)  
+[@filmwin](https://t.me/filmwin) 
+
+
+
+# book
+[@avayebuf](https://avayebuf)
 
 
 
