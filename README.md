@@ -3,6 +3,11 @@
 List of Telegram channel  
 + [movie](#movie)
 + [book](#book)
++ [science](#science)
++ [news](#news)
++ [fact-check](#fact-check)
++ [programming](#programming)
+  
 
 
 
