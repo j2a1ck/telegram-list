@@ -18,14 +18,14 @@ List of Telegram channel  (persian)
 [@filmseven](https://t.me/filmseven)  
 [@filmwin](https://t.me/filmwin)  
 # book
-[@avayebuf](https://t.me/AYAYEBUF) audio book  
+[@avayebuf](https://t.me/AVAYEBUF) audio book  
 [@librarypersianpdf](https://t.me/librarypersianpdf) pdf  
 # science
 [@farazted](https://t.me/farazted)
 # programming
 [@devtwitter](https://t.me/devtwitter)
 # news
-[@entekhabtv-channel](https://t.me/entekhabtv-channel)  
+[@entekhabtv_channel](https://t.me/entekhabtv_channel)  
 [@digiato](https://t.me/digiato)
 # hack
 [@tiivik](https://t.me/tiivik)  
