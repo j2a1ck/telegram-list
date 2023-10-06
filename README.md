@@ -30,7 +30,7 @@ List of Telegram channel  (persian)
 + [@digiato](https://t.me/digiato)
 ## hack
 + [@tiivik](https://t.me/tiivik)  
-## Bots 
+## bots 
   
  * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot. 
  * [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot. 
