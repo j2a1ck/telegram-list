@@ -17,12 +17,19 @@ List of Telegram channel  (persian)
 + [@cnamafarsi](https://t.me/cnamafarsi) for iranian  
 + [@tvroozcom](https://t.me/tvroozcom)  
 + [@filmseven](https://t.me/filmseven)  
-+ [@filmwin](https://t.me/filmwin)  
++ [@filmwin](https://t.me/filmwin)
++ 
 ## book
 + [@avayebuf](https://t.me/AVAYEBUF) audio book  
 + [@librarypersianpdf](https://t.me/librarypersianpdf) pdf  
 ## science
 + [@farazted](https://t.me/farazted)
++ + @modern_cogitation. 
++ @ofoghrodad. 
++ @big_bangpage. 
++ @scientific_resources. 
++ Cosmosgazersofficial. 
+
 ## programming
 + [@devtwitter](https://t.me/devtwitter)
 ## news
