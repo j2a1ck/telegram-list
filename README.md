@@ -28,12 +28,7 @@ List of Telegram channel  (persian)
 + [@ofoghrodad](https://t.me/ofoghroydad)   
 + [@big_bangpage](https://t.me/ofoghroydad)   
 + [@scientific_resources](https://t.me/ofoghroydad)  
-+ [Cosmosgazersofficial](https://t.me/cosmosgazersofficial)  
-
-+ [@ofoghrodad]()
-+ [@big_bangpage]()
-+ [@scientific_resources]()
-+ [Cosmosgazersofficial]()
++ [@Cosmosgazersofficial](https://t.me/cosmosgazersofficial)  
 
 ## programming
 + [@devtwitter](https://t.me/devtwitter)
