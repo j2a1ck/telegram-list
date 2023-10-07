@@ -24,8 +24,8 @@ List of Telegram channel  (persian)
 ## book
 + [@avayebuf](https://t.me/AVAYEBUF) audio book  
 + [@librarypersianpdf](https://t.me/librarypersianpdf) pdf
-+ [@ketab_mamnouee] (https://t.me/ketab_mamnouee).
-+ [@avabookchannel] (https://t.me/avabookchannel)
++ [@ketab_mamnouee](https://t.me/ketab_mamnouee).
++ [@avabookchannel](https://t.me/avabookchannel)
 ## science
 + [@farazted](https://t.me/farazted)   
 + [@modern_cogitation0](https://t.me/modern_cogitation0)   
@@ -40,16 +40,16 @@ List of Telegram channel  (persian)
 + [@entekhabtv_channel](https://t.me/entekhabtv_channel)  
 + [@digiato](https://t.me/digiato)
 ## fact-check
-+ [@fact_check] (https://t.me/Fact_Check). 
-+ [@factnameh] (https://t.me/factnameh). 
++ [@fact_check](https://t.me/Fact_Check). 
++ [@factnameh](https://t.me/factnameh). 
 ## economy 
-+ @ecoiran_webtv (https://t.me/ecoiran_webtv)  
-+ @econviews (https://t.me/econviews).
++ [@ecoiran_webtv](https://t.me/ecoiran_webtv)  
++ [@econviews](https://t.me/econviews).
   
 ## hack
 + [@tiivik](https://t.me/tiivik)
- + @osinters (https://t.me/osinters).  
-+ @securation (https://t.me/securation).
+ + [@osinters](https://t.me/osinters).  
++ [@securation](https://t.me/securation).
 
 ## bots 
   
