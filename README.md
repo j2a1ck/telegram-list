@@ -42,6 +42,7 @@ List of Telegram channel  (persian)
 ## news
 + [@entekhabtv_channel](https://t.me/entekhabtv_channel)  
 + [@digiato](https://t.me/digiato)
++ [@roidbest](https://t.me/RoidBest)  
 + [@roozanefarsi](https://t.me/roozanefarsi)  
 ## fact-check
 + [@fact_check](https://t.me/Fact_Check)   
