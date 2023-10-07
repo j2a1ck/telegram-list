@@ -23,12 +23,17 @@ List of Telegram channel  (persian)
 + [@avayebuf](https://t.me/AVAYEBUF) audio book  
 + [@librarypersianpdf](https://t.me/librarypersianpdf) pdf  
 ## science
-+ [@farazted](https://t.me/farazted)
-+ + @modern_cogitation. 
-+ @ofoghrodad. 
-+ @big_bangpage. 
-+ @scientific_resources. 
-+ Cosmosgazersofficial. 
++ [@farazted](https://t.me/farazted)   
++ [@modern_cogitation0](https://t.me/modern_cogitation0)   
++ [@ofoghrodad](https://t.me/ofoghroydad)   
++ [@big_bangpage](https://t.me/ofoghroydad)   
++ [@scientific_resources](https://t.me/ofoghroydad)  
++ [Cosmosgazersofficial](https://t.me/cosmosgazersofficial)  
+
++ [@ofoghrodad]()
++ [@big_bangpage]()
++ [@scientific_resources]()
++ [Cosmosgazersofficial]()
 
 ## programming
 + [@devtwitter](https://t.me/devtwitter)
