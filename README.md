@@ -20,7 +20,7 @@ List of Telegram channel  (persian)
 + [@tvroozcom](https://t.me/tvroozcom)  
 + [@filmseven](https://t.me/filmseven)  
 + [@filmwin](https://t.me/filmwin)
-+ 
++ [@filmgirlist](https://t.me/FilmgirList). 
 ## book
 + [@avayebuf](https://t.me/AVAYEBUF) audio book  
 + [@librarypersianpdf](https://t.me/librarypersianpdf) pdf
@@ -36,9 +36,13 @@ List of Telegram channel  (persian)
 
 ## programming
 + [@devtwitter](https://t.me/devtwitter)
++ [@tu_24](https://t.me/tu_24). 
++ [@fuckingprogrammingbooks](https://t.me/FuckingProgrammingBooks). 
+
 ## news
 + [@entekhabtv_channel](https://t.me/entekhabtv_channel)  
 + [@digiato](https://t.me/digiato)
++ [@roozanefarsi](https://t.me/roozanefarsi).  
 ## fact-check
 + [@fact_check](https://t.me/Fact_Check). 
 + [@factnameh](https://t.me/factnameh). 
