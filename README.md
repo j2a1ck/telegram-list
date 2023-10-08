@@ -55,7 +55,7 @@ List of Telegram channel  (persian)
 + [@github_trending_channel](https://t.me/github_trending_channel)
 + [@pythonlearnme](https://t.me/pythonlearnme)
 + [@githubtrending](https://t.me/githubtrending)
-
++ [@cmpengr](https://t.me/CmpEngr)
 ## News
 + [@entekhabtv_channel](https://t.me/entekhabtv_channel)  
 + [@digiato](https://t.me/digiato)
