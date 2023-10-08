@@ -9,6 +9,8 @@ List of Telegram channel  (persian)
 + [programming](#programming) 
 + [hack](#hack)
 + [economy](#economy)
++ [philosophy](#philosophy)
++ [music](#music)
 + [bot](#bot)
 + 
 
@@ -26,36 +28,47 @@ List of Telegram channel  (persian)
 + [@librarypersianpdf](https://t.me/librarypersianpdf) pdf
 + [@ketab_mamnouee](https://t.me/ketab_mamnouee)  
 + [@avabookchannel](https://t.me/avabookchannel)
++ [@freezaban1](https://t.me/freezaban1)
++ [@PDFsCom](https://t.me/PDFsCom) pdf
++ [@audiopersianlibrary](https://t.me/audiopersianlibrary)   
 ## science
 + [@farazted](https://t.me/farazted)   
-+ [@modern_cogitation0](https://t.me/modern_cogitation0)   
-+ [@ofoghrodad](https://t.me/ofoghroydad)   
-+ [@big_bangpage](https://t.me/ofoghroydad)   
-+ [@scientific_resources](https://t.me/ofoghroydad)  
-+ [@Cosmosgazersofficial](https://t.me/cosmosgazersofficial)  
++ [@modern_cogitation0](https://t.me/modern_cogitation0)    
++ [@scientific_resources](https://t.me/scientific_resources)  
++ [@Cosmosgazersofficial](https://t.me/cosmosgazersofficial)
++ [@big_bangpage](https://t.me/big_bangpage)
 
 ## programming
 + [@devtwitter](https://t.me/devtwitter)
 + [@tu_24](https://t.me/tu_24)   
-+ [@fuckingprogrammingbooks](https://t.me/FuckingProgrammingBooks)  
++ [@fuckingprogrammingbooks](https://t.me/FuckingProgrammingBooks)
++ [@TadavomnisT_channel](https://t.me/TadavomnisT_channel)  
 
 ## news
 + [@entekhabtv_channel](https://t.me/entekhabtv_channel)  
 + [@digiato](https://t.me/digiato)
 + [@roidbest](https://t.me/RoidBest)  
-+ [@roozanefarsi](https://t.me/roozanefarsi)  
++ [@roozanefarsi](https://t.me/roozanefarsi)
++ [@webamoozir](https://t.me/webamoozir)
 ## fact-check
 + [@fact_check](https://t.me/Fact_Check)   
-+ [@factnameh](https://t.me/factnameh)  
++ [@factnameh](https://t.me/factnameh)
++ [@factyar](https://t.me/factyar)  
 ## economy 
 + [@ecoiran_webtv](https://t.me/ecoiran_webtv)  
-+ [@econviews](https://t.me/econviews)   
++ [@econviews](https://t.me/econviews)
++ [@Catalax](https://t.me/Catalax)
++ 
   
 ## hack
 + [@tiivik](https://t.me/tiivik)
  + [@osinters](https://t.me/osinters)   
-+ [@securation](https://t.me/securation)   
-
++ [@securation](https://t.me/securation)
++ 
+## philosophy
++[@yusefmasoud](https://t.me/yusefmasoud)  
+[@soudabeh_qaisari](https://t.me/soudabeh_qaisari)  
+## music 
 ## bots 
   
  * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot. 
