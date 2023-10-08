@@ -29,7 +29,10 @@ List of Telegram channel  (persian)
 + [@avabookchannel](https://t.me/avabookchannel)
 + [@freezaban1](https://t.me/freezaban1)
 + [@PDFsCom](https://t.me/PDFsCom) pdf
-+ [@audiopersianlibrary](https://t.me/audiopersianlibrary)   
++ [@audiopersianlibrary](https://t.me/audiopersianlibrary)
++ [@booksiranian1](https://t.me/booksiranian1)
++ [@feqdanedel](https://t.me/feqdanedel)
++ [@homosapiensfa](https://t.me/homosapiensfa)
 ## science
 + [@farazted](https://t.me/farazted)   
 + [@modern_cogitation0](https://t.me/modern_cogitation0)    
@@ -57,17 +60,24 @@ List of Telegram channel  (persian)
 + [@ecoiran_webtv](https://t.me/ecoiran_webtv)  
 + [@econviews](https://t.me/econviews)
 + [@Catalax](https://t.me/Catalax)
-+ 
-  
++ [@signal99](https://t.me/signal99)
 ## hack
 + [@tiivik](https://t.me/tiivik)
 + [@osinters](https://t.me/osinters)   
 + [@securation](https://t.me/securation)
++ [@BlackBoxOsint](https://t.me/BlackBoxOsint)
 + 
 ## philosophy
 + [@yusefmasoud](https://t.me/yusefmasoud)  
-+ [@soudabeh_qaisari](https://t.me/soudabeh_qaisari)  
++ [@soudabeh_qaisari](https://t.me/soudabeh_qaisari)
++ [@GreatPharos](https://t.me/GreatPharos)
++ [@NashrAasoo](https://t.me/NashrAasoo)
++ [@abouzar_shariati](https://t.me/abouzar_shariati)
 ## music 
++ [@classicalmusicofficialchannel](https://t.me/classicalmusicofficialchannel)  
++ [@ThroughaGlassDarkly](https://t.me/ThroughaGlassDarkly)
++ [@TheVoiceOfLife](https://t.me/TheVoiceOfLife)
++ [@moosighi_sonati](https://t.me/moosighi_sonati)
 ## bots 
   
  * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot. 
