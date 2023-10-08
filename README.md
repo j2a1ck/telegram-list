@@ -62,12 +62,12 @@ List of Telegram channel  (persian)
   
 ## hack
 + [@tiivik](https://t.me/tiivik)
- + [@osinters](https://t.me/osinters)   
++ [@osinters](https://t.me/osinters)   
 + [@securation](https://t.me/securation)
 + 
 ## philosophy
-+[@yusefmasoud](https://t.me/yusefmasoud)  
-[@soudabeh_qaisari](https://t.me/soudabeh_qaisari)  
++ [@yusefmasoud](https://t.me/yusefmasoud)  
++ [@soudabeh_qaisari](https://t.me/soudabeh_qaisari)  
 ## music 
 ## bots 
   
