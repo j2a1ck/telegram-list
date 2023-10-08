@@ -57,6 +57,7 @@ List of Telegram channel  (persian)
 + [@roozanefarsi](https://t.me/roozanefarsi)
 + [@webamoozir](https://t.me/webamoozir)
 + [@kherad_jensi](https://t.me/kherad_jensi)
++ [@IranintlTV](https://t.me/IranintlTV)   
 ## fact-check
 + [@fact_check](https://t.me/Fact_Check)   
 + [@factnameh](https://t.me/factnameh)
