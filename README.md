@@ -23,7 +23,11 @@ List of Telegram channel  (persian)
 + [@tvroozcom](https://t.me/tvroozcom)  
 + [@filmseven](https://t.me/filmseven)  
 + [@filmwin](https://t.me/filmwin)
-+ [@filmgirlist](https://t.me/FilmgirList)  
++ [@filmgirlist](https://t.me/FilmgirList)
++ [@persia30nema](https://t.me/persia30nema)
++ [@boxepisods](https://t.me/boxepisods)
++ [@bestmovienil](https://t.me/bestmovienil)   
++ 
 ## Book
 + [@avayebuf](https://t.me/AVAYEBUF) audio book  
 + [@librarypersianpdf](https://t.me/librarypersianpdf) pdf
@@ -119,7 +123,12 @@ List of Telegram channel  (persian)
  * [@TyzenhausBot](https://t.me/TyzenhausBot) - shared expenses tracking bot. 
  * [@pdfbot](https://t.me/pdfbot) - Telegram bot that can do a lot of things related to PDF files 
  * [@IgGramBot](https://t.me/IgGramBot?start=invite_github) - IgGramBot is a bot that helps you download Instagram videos, photos, IGTV, Reels, Stories & Highlights Instagram from Telegram. 
- * [@Plasma_gpt_ai_bot](https://t.me/plasma_gpt_ai_bot) - AI Telegram bot with access to the latest chatGPT (v4.x) and Midjourney (v.5.x). It can generate AI Images, Text, parse website data, accept voice messages, and much more. It can work in public/private groups for free. 
+ * [@Plasma_gpt_ai_bot](https://t.me/plasma_gpt_ai_bot) - AI Telegram bot with access to the latest chatGPT (v4.x) and Midjourney (v.5.x). It can generate AI Images, Text, parse website data, accept voice messages, and much more. It can work in public/private groups for free.
+ * [@filmgirbot](https://t.me/filmgirbot) Download movie and series
+ * [@Mobomoviesbot](https://t.me/Mobomoviesbot) Download movie and series
+ * [@BoxOffice_VipBot](https://t.me/BoxOffice_VipBot) Download movie and series
+ * [@fastfilmbot](https://t.me/fastfilmbot) Best downloader movie and series
+ * 
   
  ### Inline Bots 
   
