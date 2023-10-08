@@ -12,7 +12,9 @@ List of Telegram channel  (persian)
 + [philosophy](#philosophy)
 + [music](#music)
 + [bot](#bot)
-+ 
++ [vpn](#vpn)
++ [meme](#meme)
++ [extra](#extra)
 
 ## movie 
 + [@animelist_ir](https://t.me/animelist_ir) for anime fan   
