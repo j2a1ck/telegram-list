@@ -156,3 +156,5 @@ List of Telegram channel  (persian)
  * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics. 
  * [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯ 
  * [@hidethisbot](https://telegram.me/hidethisbot) – Bot for hiding messages for/from certain people and sending spoilers.
+## Vpn
++[@Data_Proxy](https://t.me/Data_Proxy)
