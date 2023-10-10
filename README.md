@@ -56,6 +56,10 @@ List of Telegram channel  (persian)
 + [@pythonlearnme](https://t.me/pythonlearnme)
 + [@githubtrending](https://t.me/githubtrending)
 + [@cmpengr](https://t.me/CmpEngr)
++ [@jadivarlog](https://t.me/jadivarlog)
++ [@amoozesh_tube](https://t.me/amoozesh_tube)
++ [@freecodecamp_farsi](https://t.me/freecodecamp_farsi)
++ [@TorhamDevCH](https://t.me/TorhamDevCH)
 ## News
 + [@entekhabtv_channel](https://t.me/entekhabtv_channel)  
 + [@digiato](https://t.me/digiato)
@@ -157,4 +161,4 @@ List of Telegram channel  (persian)
  * [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯ 
  * [@hidethisbot](https://telegram.me/hidethisbot) – Bot for hiding messages for/from certain people and sending spoilers.
 ## Vpn
-+[@Data_Proxy](https://t.me/Data_Proxy)
++ [@Data_Proxy](https://t.me/Data_Proxy)
