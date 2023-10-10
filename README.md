@@ -79,7 +79,7 @@ List of Telegram channel  (persian)
 + [@signal99](https://t.me/signal99)
 ## Hack
 + [@tiivik](https://t.me/tiivik)
-+ [@osinters](https://t.me/osinters)   
++ [@osinters](https://t.me/osinters) close to MF Islamic Republic of Iran
 + [@securation](https://t.me/securation)
 + [@BlackBoxOsint](https://t.me/BlackBoxOsint)
 + 
@@ -161,4 +161,5 @@ List of Telegram channel  (persian)
  * [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯ 
  * [@hidethisbot](https://telegram.me/hidethisbot) – Bot for hiding messages for/from certain people and sending spoilers.
 ## Vpn
-+ [@Data_Proxy](https://t.me/Data_Proxy)
++ [@Data_Proxy](https://t.me/Data_Proxy) Telegram proxy
++ [@wbnet](https://t.me/wbnet)
