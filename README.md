@@ -26,8 +26,8 @@ List of Telegram channel  (persian)
 + [@filmgirlist](https://t.me/FilmgirList)
 + [@persia30nema](https://t.me/persia30nema)
 + [@boxepisods](https://t.me/boxepisods)
-+ [@bestmovienil](https://t.me/bestmovienil)   
-+ 
++ [@bestmovienil](https://t.me/bestmovienil)
++ [@serialll1](https://t.me/serialll1)
 ## Book
 + [@avayebuf](https://t.me/AVAYEBUF) audio book  
 + [@librarypersianpdf](https://t.me/librarypersianpdf) pdf
