@@ -28,6 +28,7 @@ List of Telegram channel  (persian)
 + [@boxepisods](https://t.me/boxepisods)
 + [@bestmovienil](https://t.me/bestmovienil)
 + [@serialll1](https://t.me/serialll1)
++ [@persiandocs](https://t.me/persiandocs)
 ## Book
 + [@avayebuf](https://t.me/AVAYEBUF) audio book  
 + [@librarypersianpdf](https://t.me/librarypersianpdf) pdf
@@ -40,12 +41,18 @@ List of Telegram channel  (persian)
 + [@feqdanedel](https://t.me/feqdanedel)
 + [@homosapiensfa](https://t.me/homosapiensfa)
 + [@zlibrary_official](https://t.me/zlibrary_official)
++ [@feqdanedel](https://t.me/feqdanedel)
++ [@Archivesbooks](https://t.me/Archivesbooks)
 ## Science
 + [@farazted](https://t.me/farazted)   
-+ [@modern_cogitation0](https://t.me/modern_cogitation0)    
++ [@modern_cogitation0](https://t.me/modern_cogitation0)
++ [@ofoghroydad](https://t.me/ofoghroydad)
 + [@scientific_resources](https://t.me/scientific_resources)  
 + [@Cosmosgazersofficial](https://t.me/cosmosgazersofficial)
 + [@big_bangpage](https://t.me/big_bangpage)
++ [@endishea](https://t.me/endishea)
++ [@telsiintellectualrenaissance](https://t.me/telsiintellectualrenaissance)
++ [@modern_cogitation](https://t.me/modern_cogitation)
 
 ## Programming
 + [@devtwitter](https://t.me/devtwitter)
@@ -60,14 +67,19 @@ List of Telegram channel  (persian)
 + [@amoozesh_tube](https://t.me/amoozesh_tube)
 + [@freecodecamp_farsi](https://t.me/freecodecamp_farsi)
 + [@TorhamDevCH](https://t.me/TorhamDevCH)
++ [@devloper98](https://t.me/devloper98)
++ [@la5tknight](https://t.me/la5tknight)
 ## News
 + [@entekhabtv_channel](https://t.me/entekhabtv_channel)  
 + [@digiato](https://t.me/digiato)
 + [@roidbest](https://t.me/RoidBest)  
 + [@roozanefarsi](https://t.me/roozanefarsi)
 + [@webamoozir](https://t.me/webamoozir)
++ [@iranhoshdar_channel](https://t.me/iranhoshdar_channel)
 + [@kherad_jensi](https://t.me/kherad_jensi)
-+ [@IranintlTV](https://t.me/IranintlTV)   
++ [@IranintlTV](https://t.me/IranintlTV)
++ [@HomeAI](https://t.me/HomeAI)
++ [@MiladNouriChannel](https://t.me/MiladNouriChannel)
 ## Fact-check
 + [@fact_check](https://t.me/Fact_Check)   
 + [@factnameh](https://t.me/factnameh)
@@ -77,6 +89,7 @@ List of Telegram channel  (persian)
 + [@econviews](https://t.me/econviews)
 + [@Catalax](https://t.me/Catalax)
 + [@signal99](https://t.me/signal99)
++ [@coffeconomics](https://t.me/coffeconomics)
 ## Hack
 + [@tiivik](https://t.me/tiivik)
 + [@osinters](https://t.me/osinters) close to MF Islamic Republic of Iran
@@ -91,11 +104,15 @@ List of Telegram channel  (persian)
 + [@abouzar_shariati](https://t.me/abouzar_shariati)
 + [@AndisheKonim](https://t.me/AndisheKonim)
 + [@vkends](https://t.me/vkends)
++ [@baharakhavan_makatebsiasi](https://t.me/baharakhavan_makatebsiasi)
++ [@ar_persian](https://t.me/ar_persian)
++ [@andishehsarapub](https://t.me/andishehsarapub)
 ## Music 
 + [@classicalmusicofficialchannel](https://t.me/classicalmusicofficialchannel)  
 + [@ThroughaGlassDarkly](https://t.me/ThroughaGlassDarkly)
 + [@TheVoiceOfLife](https://t.me/TheVoiceOfLife)
 + [@moosighi_sonati](https://t.me/moosighi_sonati)
++ [@FarnazSeifi](https://t.me/FarnazSeifi)
 ## Bots 
   
  * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot. 
@@ -163,3 +180,14 @@ List of Telegram channel  (persian)
 ## Vpn
 + [@Data_Proxy](https://t.me/Data_Proxy) Telegram proxy
 + [@wbnet](https://t.me/wbnet)
++ [@ghafandar](https://t.me/ghafandar)
++ [@vahidgeek](https://t.me/vahidgeek)
+## Extra
++ [@faradars](https://t.me/faradars)
++ [@ghalatnanevisimm](https://t.me/ghalatnanevisimm)
++ [@jenab_vakill](https://t.me/jenab_vakill)
++ [@TubeLearn](https://t.me/TubeLearn)
+## Meme
++ [@canoon_aa](https://t.me/canoon_aa)
++ [@myunfunnymemes](https://t.me/myunfunnymemes)
++ [@politicallyincorrectjokes](https://t.me/politicallyincorrectjokes)
