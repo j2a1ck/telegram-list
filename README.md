@@ -43,6 +43,7 @@ List of Telegram channel  (persian)
 + [@zlibrary_official](https://t.me/zlibrary_official)
 + [@feqdanedel](https://t.me/feqdanedel)
 + [@Archivesbooks](https://t.me/Archivesbooks)
++ 
 ## Science
 + [@farazted](https://t.me/farazted)   
 + [@modern_cogitation0](https://t.me/modern_cogitation0)
@@ -53,6 +54,7 @@ List of Telegram channel  (persian)
 + [@endishea](https://t.me/endishea)
 + [@telsiintellectualrenaissance](https://t.me/telsiintellectualrenaissance)
 + [@modern_cogitation](https://t.me/modern_cogitation)
++ [@updatemd](https://t.me/updatemd)
 
 ## Programming
 + [@devtwitter](https://t.me/devtwitter)
@@ -69,6 +71,7 @@ List of Telegram channel  (persian)
 + [@TorhamDevCH](https://t.me/TorhamDevCH)
 + [@devloper98](https://t.me/devloper98)
 + [@la5tknight](https://t.me/la5tknight)
++ [@Never_Forget_Semicolon](https://t.me/Never_Forget_Semicolon)
 ## News
 + [@entekhabtv_channel](https://t.me/entekhabtv_channel)  
 + [@digiato](https://t.me/digiato)
@@ -95,7 +98,7 @@ List of Telegram channel  (persian)
 + [@osinters](https://t.me/osinters) close to MF Islamic Republic of Iran
 + [@securation](https://t.me/securation)
 + [@BlackBoxOsint](https://t.me/BlackBoxOsint)
-+ 
++ [@UltraSecurity](https://t.me/UltraSecurity)
 ## Philosophy
 + [@yusefmasoud](https://t.me/yusefmasoud)  
 + [@soudabeh_qaisari](https://t.me/soudabeh_qaisari)
@@ -107,6 +110,7 @@ List of Telegram channel  (persian)
 + [@baharakhavan_makatebsiasi](https://t.me/baharakhavan_makatebsiasi)
 + [@ar_persian](https://t.me/ar_persian)
 + [@andishehsarapub](https://t.me/andishehsarapub)
++ [@RealPersianGodless](https://t.me/RealPersianGodless)
 ## Music 
 + [@classicalmusicofficialchannel](https://t.me/classicalmusicofficialchannel)  
 + [@ThroughaGlassDarkly](https://t.me/ThroughaGlassDarkly)
@@ -187,6 +191,9 @@ List of Telegram channel  (persian)
 + [@ghalatnanevisimm](https://t.me/ghalatnanevisimm)
 + [@jenab_vakill](https://t.me/jenab_vakill)
 + [@TubeLearn](https://t.me/TubeLearn)
++ [@psychologyservice](https://t.me/psychologyservice)
++ [@zabanshenas_com](https://t.me/zabanshenas_com)
++ [@ai_person](https://t.me/ai_person)
 ## Meme
 + [@canoon_aa](https://t.me/canoon_aa)
 + [@myunfunnymemes](https://t.me/myunfunnymemes)
