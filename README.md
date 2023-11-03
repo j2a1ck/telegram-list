@@ -17,7 +17,10 @@ List of Telegram channel  (persian)
 + [Extra](#Extra)
 
 ## Movie 
-+ [@animelist_ir](https://t.me/animelist_ir) for anime fan   
++ [@animelist_ir](https://t.me/animelist_ir) for anime fan
++ [@EmpireBestsTV](https://t.me/EmpireBestsTV) For new series
++ [@digimoviez_site](https://t.me/digimoviez_site)
++ [@avamovie_in](https://t.me/avamovie_in)
 + [@kingmovienit](https://t.me/kingmovienit)  
 + [@cnamafarsi](https://t.me/cnamafarsi) for iranian  
 + [@tvroozcom](https://t.me/tvroozcom)  
@@ -29,6 +32,8 @@ List of Telegram channel  (persian)
 + [@bestmovienil](https://t.me/bestmovienil)
 + [@serialll1](https://t.me/serialll1)
 + [@persiandocs](https://t.me/persiandocs)
++ [@donyayeserialtel](https://t.me/donyayeserialtel)
++ [@mymoviz](https://t.me/mymoviz)
 ## Book
 + [@avayebuf](https://t.me/AVAYEBUF) audio book  
 + [@librarypersianpdf](https://t.me/librarypersianpdf) pdf
