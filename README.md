@@ -88,6 +88,7 @@ List of Telegram channel  (persian)
 + [@IranintlTV](https://t.me/IranintlTV)
 + [@HomeAI](https://t.me/HomeAI)
 + [@MiladNouriChannel](https://t.me/MiladNouriChannel)
++ [@hacker_news_feed](https://t.me/hacker_news_feed)
 ## Fact-check
 + [@fact_check](https://t.me/Fact_Check)   
 + [@factnameh](https://t.me/factnameh)
@@ -98,6 +99,7 @@ List of Telegram channel  (persian)
 + [@Catalax](https://t.me/Catalax)
 + [@signal99](https://t.me/signal99)
 + [@coffeconomics](https://t.me/coffeconomics)
++ [pouriabakhtiari](https://t.me/pouriabakhtiari)
 ## Hack
 + [@tiivik](https://t.me/tiivik)
 + [@osinters](https://t.me/osinters) close to MF Islamic Republic of Iran
@@ -199,6 +201,7 @@ List of Telegram channel  (persian)
 + [@psychologyservice](https://t.me/psychologyservice)
 + [@zabanshenas_com](https://t.me/zabanshenas_com)
 + [@ai_person](https://t.me/ai_person)
++ [@durov](https://t.me/durov)
 ## Meme
 + [@canoon_aa](https://t.me/canoon_aa)
 + [@myunfunnymemes](https://t.me/myunfunnymemes)
