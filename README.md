@@ -3,9 +3,9 @@
 
 List of Telegram channels  (Persian)
 + [Movie] (#Movie)
-+ [Book] (#Book)
-+ [Science] (#Science)
-+ [News] (#News)
++ [Book](#Book)
++ [Science](#Science)
++ [News](News)
 + [Fact-check] (#Fact-check)
 + [Programming] (#Programming)
 + [Hack] (#Hack)
