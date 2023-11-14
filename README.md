@@ -2,20 +2,20 @@
 # Awesome Telegram
 
 List of Telegram channels  (Persian)
-+ [Movie] (#Movie)
++ [Movie](#Movie)
 + [Book](#Book)
 + [Science](#Science)
-+ [News](News)
-+ [Fact-check] (#Fact-check)
-+ [Programming] (#Programming)
-+ [Hack] (#Hack)
-+ [Economy] (#Economy)
-+ [Philosophy] (#Philosophy)
-+ [Music] (#Music)
-+ [Bots] (#Bots)
-+ [Vpn] (#Vpn)
-+ [Meme] (#Meme)
-+ [Extra] (#Extra)
++ [News](#News)
++ [Fact-check](#Fact-check)
++ [Programming](#Programming)
++ [Hack](#Hack)
++ [Economy](#Economy)
++ [Philosophy](#Philosophy)
++ [Music](#Music)
++ [Bots](#Bots)
++ [Vpn](#Vpn)
++ [Meme](#Meme)
++ [Extra](#Extra)
 
 ## Movie
 
