@@ -1,28 +1,30 @@
 
 # Awesome Telegram
-List of Telegram channel  (persian)
-+ [Movie](#Movie)
-+ [Book](#Book)
-+ [Science](#Science)
-+ [News](#News)
-+ [Fact-check](#Fact-check)
-+ [Programming](#Programming) 
-+ [Hack](#Hack)
-+ [Economy](#Economy)
-+ [Philosophy](#Philosophy)
-+ [Music](#Music)
-+ [Bots](#Bots)
-+ [Vpn](#Vpn)
-+ [Meme](#Meme)
-+ [Extra](#Extra)
 
-## Movie 
-+ [@animelist_ir](https://t.me/animelist_ir) for anime fan
+List of Telegram channels  (Persian)
++ [Movie] (#Movie)
++ [Book] (#Book)
++ [Science] (#Science)
++ [News] (#News)
++ [Fact-check] (#Fact-check)
++ [Programming] (#Programming)
++ [Hack] (#Hack)
++ [Economy] (#Economy)
++ [Philosophy] (#Philosophy)
++ [Music] (#Music)
++ [Bots] (#Bots)
++ [Vpn] (#Vpn)
++ [Meme] (#Meme)
++ [Extra] (#Extra)
+
+## Movie
+
++ [@animelist_ir](https://t.me/animelist_ir) for the anime fan
 + [@EmpireBestsTV](https://t.me/EmpireBestsTV) For new series
 + [@digimoviez_site](https://t.me/digimoviez_site)
 + [@avamovie_in](https://t.me/avamovie_in)
 + [@kingmovienit](https://t.me/kingmovienit)  
-+ [@cnamafarsi](https://t.me/cnamafarsi) for iranian  
++ [@cnamafarsi](https://t.me/cnamafarsi) For Iranian  
 + [@tvroozcom](https://t.me/tvroozcom)  
 + [@filmseven](https://t.me/filmseven)  
 + [@filmwin](https://t.me/filmwin)
@@ -34,8 +36,10 @@ List of Telegram channel  (persian)
 + [@persiandocs](https://t.me/persiandocs)
 + [@donyayeserialtel](https://t.me/donyayeserialtel)
 + [@mymoviz](https://t.me/mymoviz)
+
 ## Book
-+ [@avayebuf](https://t.me/AVAYEBUF) audio book  
+
++ [@avayebuf](https://t.me/AVAYEBUF) audiobook  
 + [@librarypersianpdf](https://t.me/librarypersianpdf) pdf
 + [@ketab_mamnouee](https://t.me/ketab_mamnouee)  
 + [@avabookchannel](https://t.me/avabookchannel)
@@ -48,9 +52,10 @@ List of Telegram channel  (persian)
 + [@zlibrary_official](https://t.me/zlibrary_official)
 + [@feqdanedel](https://t.me/feqdanedel)
 + [@Archivesbooks](https://t.me/Archivesbooks)
-+ 
+
 ## Science
-+ [@farazted](https://t.me/farazted)   
+
++ [@farazted](https://t.me/farazted)
 + [@modern_cogitation0](https://t.me/modern_cogitation0)
 + [@ofoghroydad](https://t.me/ofoghroydad)
 + [@scientific_resources](https://t.me/scientific_resources)  
@@ -62,8 +67,9 @@ List of Telegram channel  (persian)
 + [@updatemd](https://t.me/updatemd)
 
 ## Programming
+
 + [@devtwitter](https://t.me/devtwitter)
-+ [@tu_24](https://t.me/tu_24)   
++ [@tu_24](https://t.me/tu_24)
 + [@fuckingprogrammingbooks](https://t.me/FuckingProgrammingBooks)
 + [@TadavomnisT_channel](https://t.me/TadavomnisT_channel)
 + [@github_trending_channel](https://t.me/github_trending_channel)
@@ -77,7 +83,9 @@ List of Telegram channel  (persian)
 + [@devloper98](https://t.me/devloper98)
 + [@la5tknight](https://t.me/la5tknight)
 + [@Never_Forget_Semicolon](https://t.me/Never_Forget_Semicolon)
+
 ## News
+
 + [@entekhabtv_channel](https://t.me/entekhabtv_channel)  
 + [@digiato](https://t.me/digiato)
 + [@roidbest](https://t.me/RoidBest)  
@@ -89,24 +97,32 @@ List of Telegram channel  (persian)
 + [@HomeAI](https://t.me/HomeAI)
 + [@MiladNouriChannel](https://t.me/MiladNouriChannel)
 + [@hacker_news_feed](https://t.me/hacker_news_feed)
+
 ## Fact-check
-+ [@fact_check](https://t.me/Fact_Check)   
+
++ [@fact_check](https://t.me/Fact_Check)
 + [@factnameh](https://t.me/factnameh)
-+ [@factyar](https://t.me/factyar)  
-## Economy 
++ [@factyar](https://t.me/factyar)
+
+## Economy
+
 + [@ecoiran_webtv](https://t.me/ecoiran_webtv)  
 + [@econviews](https://t.me/econviews)
 + [@Catalax](https://t.me/Catalax)
 + [@signal99](https://t.me/signal99)
 + [@coffeconomics](https://t.me/coffeconomics)
 + [pouriabakhtiari](https://t.me/pouriabakhtiari)
+
 ## Hack
+
 + [@tiivik](https://t.me/tiivik)
 + [@osinters](https://t.me/osinters) close to MF Islamic Republic of Iran
 + [@securation](https://t.me/securation)
 + [@BlackBoxOsint](https://t.me/BlackBoxOsint)
 + [@UltraSecurity](https://t.me/UltraSecurity)
+
 ## Philosophy
+
 + [@yusefmasoud](https://t.me/yusefmasoud)  
 + [@soudabeh_qaisari](https://t.me/soudabeh_qaisari)
 + [@GreatPharos](https://t.me/GreatPharos)
@@ -118,28 +134,31 @@ List of Telegram channel  (persian)
 + [@ar_persian](https://t.me/ar_persian)
 + [@andishehsarapub](https://t.me/andishehsarapub)
 + [@RealPersianGodless](https://t.me/RealPersianGodless)
-## Music 
+
+## Music
+
 + [@classicalmusicofficialchannel](https://t.me/classicalmusicofficialchannel)  
 + [@ThroughaGlassDarkly](https://t.me/ThroughaGlassDarkly)
 + [@TheVoiceOfLife](https://t.me/TheVoiceOfLife)
 + [@moosighi_sonati](https://t.me/moosighi_sonati)
 + [@FarnazSeifi](https://t.me/FarnazSeifi)
-## Bots 
+
+## Bots
   
- * [@Stickers](https://telegram.me/Stickers) – Official Telegram stickers bot. 
- * [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot. 
- * [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot. 
- * [@StoreBot](https://telegram.me/StoreBot) – Telegram store bot. 
- * [@weatherman_bot](https://telegram.me/weatherman_bot) - Bot shows weather in your city. 
- * [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to. 
- * [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community. 
- * [@savevideobot](https://telegram.me/savevideobot) – Download your favorite video from youtube and tens of other video sharing websites. 
- * [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope. 
- * [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday. 
- * [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot. 
++ [@Stickers](https://t.me/Stickers) – Official Telegram stickers bot.
++ [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
++ [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot. 
++ [@StoreBot](https://telegram.me/StoreBot) – Telegram store bot. 
++ [@weatherman_bot](https://telegram.me/weatherman_bot) - Bot shows weather in your city. 
++ [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to. 
++ [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community. 
++ [@savevideobot](https://telegram.me/savevideobot) – Download your favorite video from youtube and tens of other video sharing websites. 
++ [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope. 
++ [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday. 
++ [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot. 
  * [@github_gist_bot](https://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist. 
  * [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group 
- * [@daysandbox_bot](https://t.me/daysandbox_bot) - Removes link cointaining posts from user that joined group in recent 24 hours 
+ * [@daysandbox_bot](https://t.me/daysandbox_bot) - Removes link cointaining posts from user that joined the group in recent 24 hours 
  * [@m00dbot](https://t.me/m00dbot) - [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression. 
  * [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages. 
  * [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses. 
@@ -160,11 +179,10 @@ List of Telegram channel  (persian)
  * [@Mobomoviesbot](https://t.me/Mobomoviesbot) Download movie and series
  * [@BoxOffice_VipBot](https://t.me/BoxOffice_VipBot) Download movie and series
  * [@fastfilmbot](https://t.me/fastfilmbot) Best downloader movie and series
- * 
+
+### Inline Bots
   
- ### Inline Bots 
-  
- In all inline bots, you need to enter @botname, type words and wait for response (~1 second) 
+ In all inline bots, you need to enter @botname, type words and wait for the response (~1 second)
   
  * [@gif](https://telegram.me/gif) – Official Animated GIFs. 
  * [@vid](https://telegram.me/vid) – Official YouTube videos. 
@@ -188,12 +206,16 @@ List of Telegram channel  (persian)
  * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics. 
  * [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces to your messages ¯\_(ツ)_/¯ 
  * [@hidethisbot](https://telegram.me/hidethisbot) – Bot for hiding messages for/from certain people and sending spoilers.
+
 ## Vpn
+
 + [@Data_Proxy](https://t.me/Data_Proxy) Telegram proxy
 + [@wbnet](https://t.me/wbnet)
 + [@ghafandar](https://t.me/ghafandar)
 + [@vahidgeek](https://t.me/vahidgeek)
+
 ## Extra
+
 + [@faradars](https://t.me/faradars)
 + [@ghalatnanevisimm](https://t.me/ghalatnanevisimm)
 + [@jenab_vakill](https://t.me/jenab_vakill)
@@ -202,7 +224,9 @@ List of Telegram channel  (persian)
 + [@zabanshenas_com](https://t.me/zabanshenas_com)
 + [@ai_person](https://t.me/ai_person)
 + [@durov](https://t.me/durov)
+
 ## Meme
+
 + [@canoon_aa](https://t.me/canoon_aa)
 + [@myunfunnymemes](https://t.me/myunfunnymemes)
 + [@politicallyincorrectjokes](https://t.me/politicallyincorrectjokes)
