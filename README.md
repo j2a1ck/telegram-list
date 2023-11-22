@@ -2,20 +2,21 @@
 # Awesome Telegram
 
 List of Telegram channels  (Persian)
-+ [Movie](#Movie)
-+ [Book](#Book)
-+ [Science](#Science)
-+ [News](#News)
-+ [Fact-check](#Fact-check)
-+ [Programming](#Programming)
-+ [Hack](#Hack)
-+ [Economy](#Economy)
-+ [Philosophy](#Philosophy)
-+ [Music](#Music)
-+ [Bots](#Bots)
-+ [Vpn](#Vpn)
-+ [Meme](#Meme)
-+ [Extra](#Extra)
+
++ [Movie](#movie)
++ [Book](#book)
++ [Science](science)
++ [News](#news)
++ [Fact-check](#fact-check)
++ [Programming](#programming)
++ [Hack](#hack)
++ [Economy](#economy)
++ [Philosophy](#philosophy)
++ [Music](#music)
++ [Bots](#bots)
++ [Vpn](#vpn)
++ [Meme](#meme)
++ [Extra](#extra)
 
 ## Movie
 
@@ -147,14 +148,14 @@ List of Telegram channels  (Persian)
   
 + [@Stickers](https://t.me/Stickers) – Official Telegram stickers bot.
 + [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
-+ [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot. 
-+ [@StoreBot](https://telegram.me/StoreBot) – Telegram store bot. 
-+ [@weatherman_bot](https://telegram.me/weatherman_bot) - Bot shows weather in your city. 
-+ [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to. 
++ [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot.
++ [@StoreBot](https://telegram.me/StoreBot) – Telegram store bot
++ [@weatherman_bot](https://telegram.me/weatherman_bot) - Bot shows weather in your city.
++ [@AlertBot](https://telegram.me/AlertBot) – Create alert to remember messages for you, work on groups to.
 + [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community. 
-+ [@savevideobot](https://telegram.me/savevideobot) – Download your favorite video from youtube and tens of other video sharing websites. 
-+ [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope. 
-+ [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday. 
++ [@savevideobot](https://telegram.me/savevideobot) – Download your favorite video from youtube and tens of other video sharing websites.
++ [@zodiac_bot](https://telegram.me/zodiac_bot) – Bot shows your horoscope.
++ [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best rated movie everyday.
 + [@Cashgamebot](https://telegram.me/Cashgamebot) – First ever online casino in telegram bot. 
  * [@github_gist_bot](https://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist. 
  * [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group 
