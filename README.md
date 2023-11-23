@@ -150,31 +150,16 @@ List of Telegram channels  (Persian)
 ## Bots
   
 + [@Stickers](https://t.me/Stickers) – Official Telegram stickers bot.
-+ [@Forbesbot](https://telegram.me/Forbesbot) – Official Forbes business news bot.
-+ [@TechCrunchBot](https://telegram.me/TechCrunchBot) – Official TechCrunch technology news bot.
-+ [@StoreBot](https://telegram.me/StoreBot) – Telegram store bot
-+ [@weatherman_bot](https://telegram.me/weatherman_bot) - Bot shows weather in your city.
 + [@AlertBot](https://telegram.me/AlertBot) – Create an alert to remember messages for you, and work on groups too.
-+ [@comstatbot](https://telegram.me/comstatbot) – I gather chats stats, visualize them and help you to engage your community.
-+ [@savevideobot](https://telegram.me/savevideobot) – Download your favorite video from YouTube and tens of other video sharing websites.[@zodiac_bot](https://telegram.me/zodiac_bot) – The bot shows your horoscope.
-+ [@movie_adviser_bot](https://telegram.me/movie_adviser_bot) – Advises best-rated movie every day.[@Cashgamebot](https://telegram.me/Cashgamebot) – First-ever online casino in telegram bot.[@github_gist_bot](https://t.me/github_gist_bot) - The bot uploads text and documents to GitHub Gist.  + [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group
++ [@combot](https://telegram.me/combot) – I gather chats stats, visualize them and help you to engage your community.
++ [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group
 + [@daysandbox_bot](https://t.me/daysandbox_bot) - Removes link containing posts from users that joined the group in recent 24 hours
 + [@m00dbot](https://t.me/m00dbot) - [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression.
 + [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
 + [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
-+ [@voicybot](https://t.me/voicybot) - bot for translating voice recordings into text (speech-to-text)
 + [@InviteMemberBot](https://t.me/InviteMemberBot) - membership bot platform for paid Telegram channels
 + [@podcastly_bot](https://t.me/podcastly_bot) - Find new podcasts, and deliver notifications on new episodes.
-+ [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Integration of Yandex.Disk. This bot can upload different files (photos, video, audio, etc.) to Yandex.Disk (cloud storage).
-+ [@StickerShirtsBot](https://t.me/StickerShirtsBot) - Turn any Telegram Sticker into a cool T-Shirt[@selfmailbot](https://t.me/selfmailbot) — Forward all messages to your inbox. For GTD geeks.
-+ [@joinhider_bot](https://github.com/lorien/joinhider_bot) - bot to delete messages about the user has joined or left chat
-+ [@watchdog_robot](https://github.com/lorien/watchdog_robot) - bot to delete links, stickers, GIFs, videos, photos and other types of messages in chat
-+ [@voice_translator_bot](https://t.me/voice_translator_bot) - bot for translating voice messages into other languages (speech-to-speech).
-+ [@TyzenhausBot](https://t.me/TyzenhausBot) - shared expenses tracking bot.
 + [@pdfbot](https://t.me/pdfbot) - Telegram bot that can do a lot of things related to PDF files
-+ [@IgGramBot](https://t.me/IgGramBot?start=invite_github) - IgGramBot is a bot that helps you download Instagram videos, photos, IGTV, Reels, Stories and highlights Instagram from Telegram.
-+ [@Plasma_gpt_ai_bot](https://t.me/plasma_gpt_ai_bot) - AI Telegram bot with access to the latest chatGPT (v4.x) and Midjourney (v.5.x). It can generate AI Images and text, parse website data, accept voice messages, and much more. It can work in public/private groups for free.
-
 + [@StreamWideBot](https://t.me/StreamWideBot) ⭐ Download Movie and series
 
 ### Inline Bots
