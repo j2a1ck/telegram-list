@@ -22,7 +22,7 @@ List of Telegram channels  (Persian)
 
 + [@animelist_ir](https://t.me/animelist_ir) ⭐ for the anime fan
 + [@EmpireBestsTV](https://t.me/EmpireBestsTV) For new series
-+ [@digimoviez_site](https://t.me/digimoviez_site)⭐
++ [@digimoviez_site](https://t.me/digimoviez_site) ⭐
 + [@avamovie_in](https://t.me/avamovie_in)
 + [@kingmovienit](https://t.me/kingmovienit)
 + [@Film2Media_Plus](https://t.me/Film2Media_Plus)
@@ -41,8 +41,8 @@ List of Telegram channels  (Persian)
 
 ## Book
 
-+ [@avayebuf](https://t.me/AVAYEBUF)⭐ audiobook  
-+ [@librarypersianpdf](https://t.me/librarypersianpdf) ⭐pdf
++ [@avayebuf](https://t.me/AVAYEBUF) ⭐ audiobook  
++ [@librarypersianpdf](https://t.me/librarypersianpdf) ⭐ pdf
 + [@ketab_mamnouee](https://t.me/ketab_mamnouee)  
 + [@avabookchannel](https://t.me/avabookchannel)
 + [@freezaban1](https://t.me/freezaban1)
@@ -58,7 +58,7 @@ List of Telegram channels  (Persian)
 
 ## Science
 
-+ [@farazted](https://t.me/farazted)⭐
++ [@farazted](https://t.me/farazted) ⭐
 + [@modern_cogitation0](https://t.me/modern_cogitation0)
 + [@ofoghroydad](https://t.me/ofoghroydad)
 + [@scientific_resources](https://t.me/scientific_resources)  
@@ -70,8 +70,8 @@ List of Telegram channels  (Persian)
 
 ## Programming
 
-+ [@devtwitter](https://t.me/devtwitter)⭐
-+ [@Python_Trainings](https://t.me/Python_Trainings) ⭐English Python course
++ [@devtwitter](https://t.me/devtwitter) ⭐
++ [@Python_Trainings](https://t.me/Python_Trainings) ⭐ English Python course
 + [@tu_24](https://t.me/tu_24)
 + [@fuckingprogrammingbooks](https://t.me/FuckingProgrammingBooks)
 + [@TadavomnisT_channel](https://t.me/TadavomnisT_channel)
@@ -81,7 +81,7 @@ List of Telegram channels  (Persian)
 + [@cmpengr](https://t.me/CmpEngr)
 + [@jadivarlog](https://t.me/jadivarlog)
 + [@amoozesh_tube](https://t.me/amoozesh_tube)
-+ [@freecodecamp_farsi](https://t.me/freecodecamp_farsi)⭐
++ [@freecodecamp_farsi](https://t.me/freecodecamp_farsi) ⭐
 + [@TorhamDevCH](https://t.me/TorhamDevCH)
 + [@devloper98](https://t.me/devloper98)
 + [@la5tknight](https://t.me/la5tknight)
@@ -104,7 +104,7 @@ List of Telegram channels  (Persian)
 ## Fact-check
 
 + [@fact_check](https://t.me/Fact_Check)
-+ [@factnameh](https://t.me/factnameh)⭐
++ [@factnameh](https://t.me/factnameh) ⭐
 + [@factyar](https://t.me/factyar)
 
 ## Economy
@@ -118,7 +118,7 @@ List of Telegram channels  (Persian)
 
 ## Hack
 
-+ [@tiivik](https://t.me/tiivik)⭐
++ [@tiivik](https://t.me/tiivik) ⭐
 + [@osinters](https://t.me/osinters) close to MF Islamic Republic of Iran
 + [@securation](https://t.me/securation)
 + [@BlackBoxOsint](https://t.me/BlackBoxOsint)
@@ -175,7 +175,7 @@ List of Telegram channels  (Persian)
 + [@IgGramBot](https://t.me/IgGramBot?start=invite_github) - IgGramBot is a bot that helps you download Instagram videos, photos, IGTV, Reels, Stories and highlights Instagram from Telegram.
 + [@Plasma_gpt_ai_bot](https://t.me/plasma_gpt_ai_bot) - AI Telegram bot with access to the latest chatGPT (v4.x) and Midjourney (v.5.x). It can generate AI Images and text, parse website data, accept voice messages, and much more. It can work in public/private groups for free.
 
-+ [@StreamWideBot](https://t.me/StreamWideBot)⭐ Download Movie and series
++ [@StreamWideBot](https://t.me/StreamWideBot) ⭐ Download Movie and series
 
 ### Inline Bots
   
@@ -206,7 +206,7 @@ List of Telegram channels  (Persian)
 ## Vpn
 
 + [@Data_Proxy](https://t.me/Data_Proxy) Telegram proxy
-+ [@wbnet](https://t.me/wbnet)⭐
++ [@wbnet](https://t.me/wbnet) ⭐
 + [@ghafandar](https://t.me/ghafandar)
 + [@vahidgeek](https://t.me/vahidgeek)
 
