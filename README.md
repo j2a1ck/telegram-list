@@ -74,6 +74,7 @@ List of Telegram channels  (Persian)
 + [@Python_Trainings](https://t.me/Python_Trainings) ⭐ English Python course
 + [@tu_24](https://t.me/tu_24)
 + [@fuckingprogrammingbooks](https://t.me/FuckingProgrammingBooks)
++ [@Pythonism_Xl](https://t.me/Pythonism_Xl)
 + [@TadavomnisT_channel](https://t.me/TadavomnisT_channel)
 + [@github_trending_channel](https://t.me/github_trending_channel)
 + [@pythonlearnme](https://t.me/pythonlearnme)
@@ -85,6 +86,7 @@ List of Telegram channels  (Persian)
 + [@TorhamDevCH](https://t.me/TorhamDevCH)
 + [@devloper98](https://t.me/devloper98)
 + [@la5tknight](https://t.me/la5tknight)
++ [@PinkOrca](https://t.me/PinkOrca)
 + [@Never_Forget_Semicolon](https://t.me/Never_Forget_Semicolon)
 
 ## News
@@ -213,9 +215,14 @@ List of Telegram channels  (Persian)
 + [@ai_person](https://t.me/ai_person)
 + [@durov](https://t.me/durov)
 + [@syber_hut](https://t.me/syber_hut)
++ [@mohajerat_case](https://t.me/mohajerat_case)
++ [@DroidDenn](https://t.me/DroidDenn) new thing
++ [@EsicaChannel](https://t.me/EsicaChannel) new thing
++ [@Twapple](https://t.me/Twapple) new thing
 
 ## Meme
 
 + [@canoon_aa](https://t.me/canoon_aa)
++ [@gentoomemes](https://t.me/gentoomemes)
 + [@myunfunnymemes](https://t.me/myunfunnymemes)
 + [@politicallyincorrectjokes](https://t.me/politicallyincorrectjokes)
