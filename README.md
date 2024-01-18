@@ -150,9 +150,14 @@ List of Telegram channels  (Persian)
 ## Bots
   
 + [@Stickers](https://t.me/Stickers) – Official Telegram stickers bot.
++ [@GmailBot](https://t.me/GmailBot) ⭐ receive your email from bot
++ [@TempFakeMailRobot](https://t.me/TempFakeMailRobot) ⭐ use fake mail
++ [@FinglishBot](https://t.me/FinglishBot) finglish to farsi
++ [@apkdl_bot](https://t.me/apkdl_bot) download app form google play
 + [@AlertBot](https://telegram.me/AlertBot) – Create an alert to remember messages for you, and work on groups too.
 + [@combot](https://telegram.me/combot) – I gather chats stats, visualize them and help you to engage your community.
 + [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group
++ [https://t.me/KiwiRobot](https://t.me/KiwiRobot) find iranian leaked data
 + [@daysandbox_bot](https://t.me/daysandbox_bot) - Removes link containing posts from users that joined the group in recent 24 hours
 + [@m00dbot](https://t.me/m00dbot) - [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression.
 + [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
@@ -177,6 +182,8 @@ List of Telegram channels  (Persian)
 + [@vote](https://telegram.me/vote) – Official Pool generator on your conversation.
 + [@like](https://telegram.me/like) – Official Like button after your message in the conversation.  
 + [@foursquare](https://telegram.me/foursquare) – Official Share the venue with others from Foursquare.
++ [@Persian_Meme_Bot](https://t.me/Persian_Meme_Bot) persian meme
++ [@DoctorStopBot](https://t.me/DoctorStopBot) ⭐ doctor stop
 + [@githubbot](https://telegram.me/githubbot) – Official notifications about events in your public GitHub.
 + [@memingbot](https://telegram.me/memingbot) – Simple meme generator.
 + [@guggybot](https://telegram.me/guggybot) – Translate your words on GIFs.
