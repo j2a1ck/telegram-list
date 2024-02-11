@@ -5,7 +5,7 @@ List of Telegram channels  (Persian)
 
 + [Movie](#movie)
 + [Book](#book)
-+ [Science](science)
++ [Science](#science)
 + [News](#news)
 + [Fact-check](#fact-check)
 + [Programming](#programming)
@@ -159,7 +159,7 @@ List of Telegram channels  (Persian)
 + [@AlertBot](https://telegram.me/AlertBot) – Create an alert to remember messages for you, and work on groups too.
 + [@combot](https://telegram.me/combot) – I gather chats stats, visualize them and help you to engage your community.
 + [@nosticker_bot](https://t.me/nosticker_bot) - Removes any sticker posted to the group
-+ [https://t.me/KiwiRobot](https://t.me/KiwiRobot) find iranian leaked data
++ [@KiwiRobot](https://t.me/KiwiRobot) find iranian leaked data
 + [@daysandbox_bot](https://t.me/daysandbox_bot) - Removes link containing posts from users that joined the group in recent 24 hours
 + [@m00dbot](https://t.me/m00dbot) - [Open Source](https://github.com/dizballanze/m00dbot) bot for self-testing of anxiety and depression.
 + [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
