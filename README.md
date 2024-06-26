@@ -19,8 +19,8 @@ List of Telegram channels (Persian)
 
 ## Movie
 
-- ⭐[@animelist_ir](https://t.me/animelist_ir) for the anime fan
-- ⭐[@digimoviez_site](https://t.me/digimoviez_site)
+- ⭐ [@animelist_ir](https://t.me/animelist_ir) for the anime fan
+- ⭐ [@digimoviez_site](https://t.me/digimoviez_site)
 - [@EmpireBestsTV](https://t.me/EmpireBestsTV) For new series
 - [@avamovie_in](https://t.me/avamovie_in)
 - [@kingmovienit](https://t.me/kingmovienit)
@@ -78,17 +78,18 @@ List of Telegram channels (Persian)
 
 ## News
 
-- [@entekhabtv_channel](https://t.me/entekhabtv_channel)
+- ⭐ [@entekhabtv_channel](https://t.me/entekhabtv_channel)
+- ⭐ [@webamoozir](https://t.me/webamoozir)
+- [@TechTube](https://t.me/TechTube)
 - [@digiato](https://t.me/digiato)
 - [@roidbest](https://t.me/RoidBest)
-- [@roozanefarsi](https://t.me/roozanefarsi)
-- [@webamoozir](https://t.me/webamoozir)
 - [@iranhoshdar_channel](https://t.me/iranhoshdar_channel)
+- [@MiladNouriChannel](https://t.me/MiladNouriChannel)
 - [@kherad_jensi](https://t.me/kherad_jensi)
+- [@roozanefarsi](https://t.me/roozanefarsi)
 - [@IranintlTV](https://t.me/IranintlTV)
 - [@HomeAI](https://t.me/HomeAI)
 - [@movie_mvp](https://t.me/movie_mvp)
-- [@MiladNouriChannel](https://t.me/MiladNouriChannel)
 - [@hacker_news_feed](https://t.me/hacker_news_feed)
 
 ## Fact-check
@@ -99,12 +100,12 @@ List of Telegram channels (Persian)
 
 ## Economy
 
+- ⭐ [pouriabakhtiari](https://t.me/pouriabakhtiari)
 - [@ecoiran_webtv](https://t.me/ecoiran_webtv)
 - [@econviews](https://t.me/econviews)
 - [@Catalax](https://t.me/Catalax)
 - [@signal99](https://t.me/signal99)
 - [@coffeconomics](https://t.me/coffeconomics)
-- [pouriabakhtiari](https://t.me/pouriabakhtiari)
 
 ## Hacking
 
@@ -130,16 +131,17 @@ List of Telegram channels (Persian)
 
 ## Music
 
+- ⭐ [@moosighi_sonati](https://t.me/moosighi_sonati)
+- [@TheVoiceOfLife](https://t.me/TheVoiceOfLife)
 - [@classicalmusicofficialchannel](https://t.me/classicalmusicofficialchannel)
 - [@ThroughaGlassDarkly](https://t.me/ThroughaGlassDarkly)
-- [@TheVoiceOfLife](https://t.me/TheVoiceOfLife)
-- [@moosighi_sonati](https://t.me/moosighi_sonati)
 
 ## Bots
 
 - ⭐ [@StreamWideBot](https://t.me/StreamWideBot) Download Movie and series
-- ⭐ [@GmailBot](https://t.me/GmailBot) receives your email from the bot[@TempFakeMailRobot](https://t.me/TempFakeMailRobot) fake mail
-- [@itgifbot](https://t.me/itgifbot) meme maker
+- ⭐ [@GmailBot](https://t.me/GmailBot) receives your email from the bot
+- ⭐ [@TempFakeMailRobot](https://t.me/TempFakeMailRobot) fake mail
+- ⭐ [@itgifbot](https://t.me/itgifbot) meme maker
 - [@FinglishBot](https://t.me/FinglishBot) finglish to Farsi
 - [@apkdl_bot](https://t.me/apkdl_bot) download app from Play Store
 - [@AlertBot](https://telegram.me/AlertBot) – Create an alert to remember messages for you, and work on groups too.
@@ -158,11 +160,11 @@ List of Telegram channels (Persian)
 
 In all inline bots, you need to enter @botname, type words and wait for the response (~1 second)
 
-- ⭐[@pic](https://telegram.me/pic) – Official Pictures from Yandex.
+- ⭐ [@pic](https://telegram.me/pic) – Official Pictures from Yandex.
 - ⭐ [@DoctorStopBot](https://t.me/DoctorStopBot) Doctor stop
-- ⭐[@vid](https://telegram.me/vid) – Official YouTube videos.
-- ⭐[@imdb](https://telegram.me/imdb) – Official Movies from IMDB.
-- ⭐[@wiki](https://telegram.me/wiki) – Official Articles from Wikipedia.
+- ⭐ [@vid](https://telegram.me/vid) – Official YouTube videos.
+- ⭐ [@imdb](https://telegram.me/imdb) – Official Movies from IMDB.
+- ⭐ [@wiki](https://telegram.me/wiki) – Official Articles from Wikipedia.
 - [@gif](https://telegram.me/gif) – Official Animated GIFs.
 - [@bing](https://telegram.me/bing) – Official Pictures from Bing.
 - [@music](https://telegram.me/music) – Official Classic music search.
