@@ -1,38 +1,28 @@
-# Awesome Telegram
 
-List of Telegram channels (Persian)
+# Awesome Telegram Channels (Persian Edition)
+![telegram icon](/telegram.png)
 
-- [Movie](#movie)
-- [Book](#book)
-- [Science](#science)
-- [News](#news)
-- [Fact-check](#fact-check)
-- [Programming](#programming)
-- [Hacking](#hacking)
-- [Economy](#economy)
-- [Philosophy](#philosophy)
-- [Music](#music)
+---
+A curated list of awesome Telegram channels in Persian
+
+## Table of Contents
+
+- [Books](#books)
 - [Bots](#bots)
-- [Vpn](#vpn)
-- [Meme](#meme)
+- [Economy](#economy)
 - [Extra](#extra)
+- [Fact-check](#fact-check)
+- [Hacking](#hacking)
+- [Meme](#meme)
+- [Movie](#movie)
+- [Music](#music)
+- [News](#news)
+- [Philosophy](#philosophy)
+- [Programming](#programming)
+- [Science](#science)
+- [Vpn](#vpn)
 
-## Movie
-
-- ⭐ [@animelist_ir](https://t.me/animelist_ir) for the anime fan
-- ⭐ [@digimoviez_site](https://t.me/digimoviez_site)
-- [@EmpireBestsTV](https://t.me/EmpireBestsTV) For new series
-- [@avamovie_in](https://t.me/avamovie_in)
-- [@kingmovienit](https://t.me/kingmovienit)
-- [@Film2Media_Plus](https://t.me/Film2Media_Plus)
-- [@filmwin](https://t.me/filmwin)
-- [@filmgirlist](https://t.me/FilmgirList)
-- [@persia30nema](https://t.me/persia30nema)
-- [@boxepisods](https://t.me/boxepisods)
-- [@donyayeserialtel](https://t.me/donyayeserialtel)
-- [@mymoviz](https://t.me/mymoviz)
-
-## Book
+## Books
 
 - ⭐ [@avayebuf](https://t.me/AVAYEBUF) audiobook
 - ⭐ [@librarypersianpdf](https://t.me/librarypersianpdf) pdf
@@ -47,94 +37,6 @@ List of Telegram channels (Persian)
 - [@zlibrary_official](https://t.me/zlibrary_official)
 - [@Archivesbooks](https://t.me/Archivesbooks)
 - [@ketabkhaneh_daneshjoyi](https://t.me/ketabkhaneh_daneshjoyi) For uni
-
-## Science
-
-- ⭐ [@farazted](https://t.me/farazted)
-- [@modern_cogitation0](https://t.me/modern_cogitation)
-- [@ofoghroydad](https://t.me/ofoghroydad)
-- [@scientific_resources](https://t.me/scientific_resources)
-- [@Cosmosgazersofficial](https://t.me/cosmosgazersofficial)
-- [@big_bangpage](https://t.me/big_bangpage)
-- [@endishea](https://t.me/endishea)
-- [@telsiintellectualrenaissance](https://t.me/telsiintellectualrenaissance)
-- [@updatemd](https://t.me/updatemd)
-
-## Programming
-
-- ⭐ [@devtwitter](https://t.me/devtwitter)
-- [@githubtrending](https://t.me/githubtrending)
-- [@Python_Trainings](https://t.me/Python_Trainings) English Python course
-- [@jadivarlog](https://t.me/jadivarlog)
-- [@fuckingprogrammingbooks](https://t.me/FuckingProgrammingBooks)
-- [@TadavomnisT_channel](https://t.me/TadavomnisT_channel)
-- [@github_trending_channel](https://t.me/github_trending_channel)
-- [@github_repositories_bds](https://t.me/github_repositories_bds)
-- [@cmpengr](https://t.me/CmpEngr)
-- [@amoozesh_tube](https://t.me/amoozesh_tube)
-- [@freecodecamp_farsi](https://t.me/freecodecamp_farsi)
-- [@devloper98](https://t.me/devloper98)
-- [@PinkOrca](https://t.me/PinkOrca)
-
-## News
-
-- ⭐ [@entekhabtv_channel](https://t.me/entekhabtv_channel)
-- ⭐ [@webamoozir](https://t.me/webamoozir)
-- [@TechTube](https://t.me/TechTube)
-- [@digiato](https://t.me/digiato)
-- [@roidbest](https://t.me/RoidBest)
-- [@iranhoshdar_channel](https://t.me/iranhoshdar_channel)
-- [@MiladNouriChannel](https://t.me/MiladNouriChannel)
-- [@kherad_jensi](https://t.me/kherad_jensi)
-- [@roozanefarsi](https://t.me/roozanefarsi)
-- [@IranintlTV](https://t.me/IranintlTV)
-- [@HomeAI](https://t.me/HomeAI)
-- [@movie_mvp](https://t.me/movie_mvp)
-- [@hacker_news_feed](https://t.me/hacker_news_feed)
-
-## Fact-check
-
-- ⭐ [@factnameh](https://t.me/factnameh)
-- [@fact_check](https://t.me/Fact_Check)
-- [@factyar](https://t.me/factyar)
-
-## Economy
-
-- ⭐ [pouriabakhtiari](https://t.me/pouriabakhtiari)
-- [@ecoiran_webtv](https://t.me/ecoiran_webtv)
-- [@econviews](https://t.me/econviews)
-- [@Catalax](https://t.me/Catalax)
-- [@signal99](https://t.me/signal99)
-- [@coffeconomics](https://t.me/coffeconomics)
-
-## Hacking
-
-- ⭐ [@tiivik](https://t.me/tiivik)
-- [@securation](https://t.me/securation)
-- [@UltraSecurity](https://t.me/UltraSecurity)
-- [@osnitbazaniran](https://t.me/osnitbazaniran) Not updated
-
-## Philosophy
-
-- ⭐ [@vkends](https://t.me/vkends)
-- [@yusefmasoud](https://t.me/yusefmasoud)
-- [@soudabeh_qaisari](https://t.me/soudabeh_qaisari)
-- [@GreatPharos](https://t.me/GreatPharos)
-- [@NashrAasoo](https://t.me/NashrAasoo)
-- [@abouzar_shariati](https://t.me/abouzar_shariati)
-- [@AndisheKonim](https://t.me/AndisheKonim)
-- [@baharakhavan_makatebsiasi](https://t.me/baharakhavan_makatebsiasi)
-- [@ar_persian](https://t.me/ar_persian)
-- [@andishehsarapub](https://t.me/andishehsarapub)
-- [@RealPersianGodless](https://t.me/RealPersianGodless)
-- [@FarnazSeifi](https://t.me/FarnazSeifi)
-
-## Music
-
-- ⭐ [@moosighi_sonati](https://t.me/moosighi_sonati)
-- [@TheVoiceOfLife](https://t.me/TheVoiceOfLife)
-- [@classicalmusicofficialchannel](https://t.me/classicalmusicofficialchannel)
-- [@ThroughaGlassDarkly](https://t.me/ThroughaGlassDarkly)
 
 ## Bots
 
@@ -182,12 +84,14 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 - [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ASCII faces to your messages ¯\_(ツ)\_/¯
 - [@hidethisbot](https://telegram.me/hidethisbot) – Bot for hiding messages for/from certain people and sending spoilers.
 
-## Vpn
+## Economy
 
-- [@Data_Proxy](https://t.me/Data_Proxy) Telegram proxy
-- [@wbnet](https://t.me/wbnet)
-- [@vahidgeek](https://t.me/vahidgeek)
-- [@ircfspace](https://t.me/ircfspace)
+- ⭐ [pouriabakhtiari](https://t.me/pouriabakhtiari)
+- [@ecoiran_webtv](https://t.me/ecoiran_webtv)
+- [@econviews](https://t.me/econviews)
+- [@Catalax](https://t.me/Catalax)
+- [@signal99](https://t.me/signal99)
+- [@coffeconomics](https://t.me/coffeconomics)
 
 ## Extra
 
@@ -202,6 +106,19 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 - [@durov](https://t.me/durov)
 - [@mohajerat_case](https://t.me/mohajerat_case)
 
+## Fact-check
+
+- ⭐ [@factnameh](https://t.me/factnameh)
+- [@fact_check](https://t.me/Fact_Check)
+- [@factyar](https://t.me/factyar)
+
+## Hacking
+
+- ⭐ [@tiivik](https://t.me/tiivik)
+- [@securation](https://t.me/securation)
+- [@UltraSecurity](https://t.me/UltraSecurity)
+- [@osnitbazaniran](https://t.me/osnitbazaniran) Not updated
+
 ## Meme
 
 - [@Adult_Memes_Dank_Science](https://t.me/Adult_Memes_Dank_Science)
@@ -209,3 +126,91 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 - [@gentoomemes](https://t.me/gentoomemes)
 - [@myunfunnymemes](https://t.me/weeklyshitposting)
 - [@politicallyincorrectjokes](https://t.me/politicallyincorrectjokes)
+
+## Movie
+
+- ⭐ [@animelist_ir](https://t.me/animelist_ir) for the anime fan
+- ⭐ [@digimoviez_site](https://t.me/digimoviez_site)
+- [@EmpireBestsTV](https://t.me/EmpireBestsTV) For new series
+- [@avamovie_in](https://t.me/avamovie_in)
+- [@kingmovienit](https://t.me/kingmovienit)
+- [@Film2Media_Plus](https://t.me/Film2Media_Plus)
+- [@filmwin](https://t.me/filmwin)
+- [@filmgirlist](https://t.me/FilmgirList)
+- [@persia30nema](https://t.me/persia30nema)
+- [@boxepisods](https://t.me/boxepisods)
+- [@donyayeserialtel](https://t.me/donyayeserialtel)
+- [@mymoviz](https://t.me/mymoviz)
+
+## Music
+
+- ⭐ [@moosighi_sonati](https://t.me/moosighi_sonati)
+- [@TheVoiceOfLife](https://t.me/TheVoiceOfLife)
+- [@classicalmusicofficialchannel](https://t.me/classicalmusicofficialchannel)
+- [@ThroughaGlassDarkly](https://t.me/ThroughaGlassDarkly)
+
+## News
+
+- ⭐ [@entekhabtv_channel](https://t.me/entekhabtv_channel)
+- ⭐ [@webamoozir](https://t.me/webamoozir)
+- [@TechTube](https://t.me/TechTube)
+- [@digiato](https://t.me/digiato)
+- [@roidbest](https://t.me/RoidBest)
+- [@iranhoshdar_channel](https://t.me/iranhoshdar_channel)
+- [@MiladNouriChannel](https://t.me/MiladNouriChannel)
+- [@kherad_jensi](https://t.me/kherad_jensi)
+- [@roozanefarsi](https://t.me/roozanefarsi)
+- [@IranintlTV](https://t.me/IranintlTV)
+- [@HomeAI](https://t.me/HomeAI)
+- [@movie_mvp](https://t.me/movie_mvp)
+- [@hacker_news_feed](https://t.me/hacker_news_feed)
+
+## Philosophy
+
+- ⭐ [@vkends](https://t.me/vkends)
+- [@yusefmasoud](https://t.me/yusefmasoud)
+- [@soudabeh_qaisari](https://t.me/soudabeh_qaisari)
+- [@GreatPharos](https://t.me/GreatPharos)
+- [@NashrAasoo](https://t.me/NashrAasoo)
+- [@abouzar_shariati](https://t.me/abouzar_shariati)
+- [@AndisheKonim](https://t.me/AndisheKonim)
+- [@baharakhavan_makatebsiasi](https://t.me/baharakhavan_makatebsiasi)
+- [@ar_persian](https://t.me/ar_persian)
+- [@andishehsarapub](https://t.me/andishehsarapub)
+- [@RealPersianGodless](https://t.me/RealPersianGodless)
+- [@FarnazSeifi](https://t.me/FarnazSeifi)
+
+## Programming
+
+- ⭐ [@devtwitter](https://t.me/devtwitter)
+- [@githubtrending](https://t.me/githubtrending)
+- [@Python_Trainings](https://t.me/Python_Trainings) English Python course
+- [@jadivarlog](https://t.me/jadivarlog)
+- [@fuckingprogrammingbooks](https://t.me/FuckingProgrammingBooks)
+- [@TadavomnisT_channel](https://t.me/TadavomnisT_channel)
+- [@github_trending_channel](https://t.me/github_trending_channel)
+- [@github_repositories_bds](https://t.me/github_repositories_bds)
+- [@cmpengr](https://t.me/CmpEngr)
+- [@amoozesh_tube](https://t.me/amoozesh_tube)
+- [@freecodecamp_farsi](https://t.me/freecodecamp_farsi)
+- [@devloper98](https://t.me/devloper98)
+- [@PinkOrca](https://t.me/PinkOrca)
+
+## Science
+
+- ⭐ [@farazted](https://t.me/farazted)
+- [@modern_cogitation0](https://t.me/modern_cogitation)
+- [@ofoghroydad](https://t.me/ofoghroydad)
+- [@scientific_resources](https://t.me/scientific_resources)
+- [@Cosmosgazersofficial](https://t.me/cosmosgazersofficial)
+- [@big_bangpage](https://t.me/big_bangpage)
+- [@endishea](https://t.me/endishea)
+- [@telsiintellectualrenaissance](https://t.me/telsiintellectualrenaissance)
+- [@updatemd](https://t.me/updatemd)
+
+## Vpn
+
+- [@Data_Proxy](https://t.me/Data_Proxy) Telegram proxy
+- [@wbnet](https://t.me/wbnet)
+- [@vahidgeek](https://t.me/vahidgeek)
+- [@ircfspace](https://t.me/ircfspace)
