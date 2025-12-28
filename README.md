@@ -121,6 +121,16 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 - [@securation](https://t.me/securation)
 - [@UltraSecurity](https://t.me/UltraSecurity)
 - [@osnitbazaniran](https://t.me/osnitbazaniran)
+- [@androidMalware](https://t.me/androidMalware)
+- [@RNetsec](https://t.me/RNetsec)
+- [@cybdetective](https://t.me/cybdetective)
+- [@thehackernews](https://t.me/thehackernews)
+- [@thebugbountyhunter](https://t.me/thebugbountyhunter)
+- [@cyber_spectrum](https://t.me/cyber_spectrum) books
+- [OffensiveTwitter](https://t.me/OffensiveTwitter)
+- [@P0x3k_1N73LL1G3NC3](https://t.me/P0x3k_1N73LL1G3NC3)
+- [@LibrarySecOfficial](https://t.me/LibrarySecOfficial)
+- [@Offensiv3Sec](https://t.me/Offensiv3Sec)
 
 ## Crypto
 
