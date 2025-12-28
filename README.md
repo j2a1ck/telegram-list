@@ -95,7 +95,6 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 
 ## Extra
 
-- [@DroidDenn](https://t.me/DroidDenn) find the new thing
 - [@EsicaChannel](https://t.me/EsicaChannel) find the new thing
 - [@Twapple](https://t.me/Twapple) find the new thing
 - [@ghalatnanevisimm](https://t.me/ghalatnanevisimm)
@@ -117,7 +116,7 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 - ⭐ [@tiivik](https://t.me/tiivik)
 - [@securation](https://t.me/securation)
 - [@UltraSecurity](https://t.me/UltraSecurity)
-- [@osnitbazaniran](https://t.me/osnitbazaniran) Not updated
+- [@osnitbazaniran](https://t.me/osnitbazaniran)
 
 ## Meme
 
@@ -129,7 +128,6 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 
 ## Movie
 
-- ⭐ [@animelist_ir](https://t.me/animelist_ir) for the anime fan
 - ⭐ [@digimoviez_site](https://t.me/digimoviez_site)
 - [@EmpireBestsTV](https://t.me/EmpireBestsTV) For new series
 - [@avamovie_in](https://t.me/avamovie_in)
@@ -159,10 +157,7 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 - [@iranhoshdar_channel](https://t.me/iranhoshdar_channel)
 - [@MiladNouriChannel](https://t.me/MiladNouriChannel)
 - [@kherad_jensi](https://t.me/kherad_jensi)
-- [@roozanefarsi](https://t.me/roozanefarsi)
 - [@IranintlTV](https://t.me/IranintlTV)
-- [@HomeAI](https://t.me/HomeAI)
-- [@movie_mvp](https://t.me/movie_mvp)
 - [@hacker_news_feed](https://t.me/hacker_news_feed)
 
 ## Philosophy
@@ -173,25 +168,20 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 - [@GreatPharos](https://t.me/GreatPharos)
 - [@NashrAasoo](https://t.me/NashrAasoo)
 - [@abouzar_shariati](https://t.me/abouzar_shariati)
-- [@AndisheKonim](https://t.me/AndisheKonim)
 - [@baharakhavan_makatebsiasi](https://t.me/baharakhavan_makatebsiasi)
 - [@ar_persian](https://t.me/ar_persian)
 - [@andishehsarapub](https://t.me/andishehsarapub)
 - [@RealPersianGodless](https://t.me/RealPersianGodless)
-- [@FarnazSeifi](https://t.me/FarnazSeifi)
 
 ## Programming
 
 - ⭐ [@devtwitter](https://t.me/devtwitter)
 - [@githubtrending](https://t.me/githubtrending)
-- [@Python_Trainings](https://t.me/Python_Trainings) English Python course
 - [@jadivarlog](https://t.me/jadivarlog)
 - [@fuckingprogrammingbooks](https://t.me/FuckingProgrammingBooks)
 - [@TadavomnisT_channel](https://t.me/TadavomnisT_channel)
 - [@github_trending_channel](https://t.me/github_trending_channel)
 - [@github_repositories_bds](https://t.me/github_repositories_bds)
-- [@cmpengr](https://t.me/CmpEngr)
-- [@amoozesh_tube](https://t.me/amoozesh_tube)
 - [@freecodecamp_farsi](https://t.me/freecodecamp_farsi)
 - [@devloper98](https://t.me/devloper98)
 - [@PinkOrca](https://t.me/PinkOrca)
@@ -205,12 +195,11 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 - [@Cosmosgazersofficial](https://t.me/cosmosgazersofficial)
 - [@big_bangpage](https://t.me/big_bangpage)
 - [@endishea](https://t.me/endishea)
-- [@telsiintellectualrenaissance](https://t.me/telsiintellectualrenaissance)
+- [@AndisheKonim](https://t.me/AndisheKonim)
 - [@updatemd](https://t.me/updatemd)
 
 ## Vpn
 
 - [@Data_Proxy](https://t.me/Data_Proxy) Telegram proxy
 - [@wbnet](https://t.me/wbnet)
-- [@vahidgeek](https://t.me/vahidgeek)
 - [@ircfspace](https://t.me/ircfspace)
