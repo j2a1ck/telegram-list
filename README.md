@@ -12,7 +12,8 @@ A curated list of awesome Telegram channels in Persian
 - [Economy](#economy)
 - [Extra](#extra)
 - [Fact-check](#fact-check)
-- [Hacking](#hacking)
+- [cyber-security](#cyber-security)
+- [Crypto](#crypto)
 - [Meme](#meme)
 - [Movie](#movie)
 - [Music](#music)
@@ -86,7 +87,8 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 
 ## Economy
 
-- ⭐ [pouriabakhtiari](https://t.me/pouriabakhtiari)
+- [pouriabakhtiari](https://t.me/pouriabakhtiari)
+- [Sadegh_Alhosseini](https://t.me/Sadegh_Alhosseini)
 - [@ecoiran_webtv](https://t.me/ecoiran_webtv)
 - [@econviews](https://t.me/econviews)
 - [@Catalax](https://t.me/Catalax)
@@ -111,19 +113,29 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 - [@fact_check](https://t.me/Fact_Check)
 - [@factyar](https://t.me/factyar)
 
-## Hacking
+## cyber security
 
 - ⭐ [@tiivik](https://t.me/tiivik)
+- ⭐ [@gotocvechat](https://t.me/gotocvechat) bug bounty group
+- [@V00RIVEX](https://t.me/V00RIVEX) bug bounty courses
 - [@securation](https://t.me/securation)
 - [@UltraSecurity](https://t.me/UltraSecurity)
 - [@osnitbazaniran](https://t.me/osnitbazaniran)
 
+## Crypto
+
+- ⭐ [@CryptoVizArt](https://t.me/CryptoVizArt)
+- ⭐ [@simorgh_blockchain](https://t.me/simorgh_blockchain) group
+- [@bitcoinarticlesfarsi](https://t.me/bitcoinarticlesfarsi)
+- [@RamzArzFarsi](https://t.me/RamzArzFarsi)
+- [@glassnode](https://t.me/glassnode)
+- [@simorgh_p2p](https://t.me/simorgh_p2p) p2p telegram robot group
+- [@persianlightning](https://t.me/persianlightning) bitcoin lighting
+
 ## Meme
 
-- [@Adult_Memes_Dank_Science](https://t.me/Adult_Memes_Dank_Science)
 - [@canoon_aa](https://t.me/canoon_aa)
 - [@gentoomemes](https://t.me/gentoomemes)
-- [@myunfunnymemes](https://t.me/weeklyshitposting)
 - [@politicallyincorrectjokes](https://t.me/politicallyincorrectjokes)
 
 ## Movie
@@ -143,6 +155,7 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 ## Music
 
 - ⭐ [@moosighi_sonati](https://t.me/moosighi_sonati)
+- ⭐ [@koronmusic](https://t.me/koronmusic)
 - [@TheVoiceOfLife](https://t.me/TheVoiceOfLife)
 - [@classicalmusicofficialchannel](https://t.me/classicalmusicofficialchannel)
 - [@ThroughaGlassDarkly](https://t.me/ThroughaGlassDarkly)
@@ -162,7 +175,7 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 
 ## Philosophy
 
-- ⭐ [@vkends](https://t.me/vkends)
+- [@vkends](https://t.me/vkends)
 - [@yusefmasoud](https://t.me/yusefmasoud)
 - [@soudabeh_qaisari](https://t.me/soudabeh_qaisari)
 - [@GreatPharos](https://t.me/GreatPharos)
@@ -175,7 +188,9 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 
 ## Programming
 
-- ⭐ [@devtwitter](https://t.me/devtwitter)
+- [@devtwitter](https://t.me/devtwitter)
+- [@fullstacksjs](https://t.me/fullstacksjs) js dev community group
+- [@Linuxor](https://t.me/Linuxor)
 - [@githubtrending](https://t.me/githubtrending)
 - [@jadivarlog](https://t.me/jadivarlog)
 - [@fuckingprogrammingbooks](https://t.me/FuckingProgrammingBooks)
@@ -200,6 +215,6 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 
 ## Vpn
 
+- ⭐ [@ircfspace](https://t.me/ircfspace)
 - [@Data_Proxy](https://t.me/Data_Proxy) Telegram proxy
 - [@wbnet](https://t.me/wbnet)
-- [@ircfspace](https://t.me/ircfspace)
