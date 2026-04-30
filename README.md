@@ -58,6 +58,7 @@ A curated list of awesome Telegram channels in Persian
 - [@InviteMemberBot](https://t.me/InviteMemberBot) - membership bot platform for paid Telegram channels
 - [@podcastly_bot](https://t.me/podcastly_bot) - Find new podcasts, and deliver notifications on new episodes.
 - [@pdfbot](https://t.me/pdfbot) - Telegram bot that can do a lot of things related to PDF files
+- [Cyber Collector](https://t.me/cybercollectorbot) - Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ### Inline Bots
 
