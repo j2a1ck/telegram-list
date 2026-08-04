@@ -1,4 +1,3 @@
-
 # Awesome Telegram Channels (Persian Edition)
 ![telegram icon](/telegram.png)
 
@@ -183,6 +182,7 @@ In all inline bots, you need to enter @botname, type words and wait for the resp
 - [@kherad_jensi](https://t.me/kherad_jensi)
 - [@IranintlTV](https://t.me/IranintlTV)
 - [@hacker_news_feed](https://t.me/hacker_news_feed)
+- [@farfield_news_persian](https://t.me/farfield_news_persian) AI & tech news dispatch, Persian
 
 ## Philosophy
 
